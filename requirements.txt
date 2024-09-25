@@ -1,0 +1,5 @@
+#Lista de todas as dependencias para este projeto Python
+
+pandas==2.2.3
+openpyxl==3.1.5
+#para o tkinter tenha certeza de que 'Tcl/Tk' está instalado na sua máquina
