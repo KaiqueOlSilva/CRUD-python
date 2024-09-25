@@ -19,7 +19,7 @@ Um script python que interage com planilhas excel para gerenciar um banco de dad
 
 *openpyxl
 
-tkinter
+*tkinter
 
 ## Como Utilizar
 1. Clone este repositório.
