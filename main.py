@@ -24,6 +24,7 @@ def ver_usuarios():
         print("Nenhum arquivo carregado, por favor abra um arquivo")
         abrir_arquivo()
     print(df)
+
 def criar_usuario(nome, email, senha):
     if 'df' not in globals():
         print("Nenhum arquivo carregado, por favor abra um arquivo")

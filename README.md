@@ -4,11 +4,13 @@ Um script python que interage com planilhas excel para gerenciar um banco de dad
 ## Funcionalidades
 *Ver todos os dados cadastrados na planilha
 
-*Adicionar e remover usuarios
+*Adicão e remoção de conteúdo da planilha
 
-*Atualizar usuarios
+*Sistema de detecção de dados duplicados
 
-*Busca por um usuario especifico
+*Atualização de conteúdo já existente na planilha
+
+*Busca por conteúdo especifico
 
 *Salvar alterações no arquivo Excel
 
